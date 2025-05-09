@@ -1,2 +1,3 @@
 # learn-modern-javascript
-Learn Modern JavaScript
+
+Just Learn Modern JavaScript ecosystem
