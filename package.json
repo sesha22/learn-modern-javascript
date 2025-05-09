@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/sesha22/learn-modern-javascript#readme",
   "devDependencies": {
+    "eslint": "^9.26.0",
+    "prettier": "^3.5.3",
     "typescript": "^5.8.3"
   }
 }
